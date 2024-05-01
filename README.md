@@ -1,7 +1,7 @@
 # infoOlympics
 This website is basically designed to give the information about event schedule and it's venue also a brief history about our champions
 # Live Demo link
-https://sadhanasharma1.github.io/infoOlympics/
+https://rishabh180705.github.io/info-olympics/
 # Description
 InfoOlympics covers a wide range of Olympic games, including cricket, football, hockey, Javelin Throw, and marathon. The website is structured into five prominent sections: Home, Players, Schedule, Tickets, and Venue.
 
